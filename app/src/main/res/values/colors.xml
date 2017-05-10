@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+
+    <!--黑-->
+    <color name="black">#000000</color>
+    <color name="black_transparent">#96000000</color>
+
+    <!--白-->
+    <color name="white">#ffffff</color>
+    <color name="white_transparent">#96ffffff</color>
+
+    <!--红-->
+    <color name="red1">#d32f2f</color>
+    <color name="red2">#c62828</color>
+    <color name="red3">#b71c1c</color>
+
+    <!--黄-->
+    <color name="yellow1">#FBC02D</color>
+    <color name="yellow2">#F9A825</color>
+    <color name="yellow3">#F57F17</color>
+
+    <!--蓝-->
+    <color name="blue1">#1976D2</color>
+    <color name="blue1_transparent">#961976d2</color>
+    <color name="blue2">#1565C0</color>
+    <color name="blue3">#0D47A1</color>
+    <color name="blue3_transparent">#960d47a1</color>
+
+    <!--绿-->
+    <color name="green1">#388E3C</color>
+    <color name="green2">#2E7D32</color>
+    <color name="green3">#1B5E20</color>
+
+    <!--紫-->
+    <color name="purple1">#7B1FA2</color>
+    <color name="purple2">#6A1B9A</color>
+    <color name="purple3">#4A148C</color>
+
+</resources>
